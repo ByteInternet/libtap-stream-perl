@@ -1,0 +1,10 @@
+f39136b6de6f908f43e8306a1856c982  usr/share/doc/libtap-stream-perl/README
+9f45f45480818ad93efa393993f57f03  usr/share/doc/libtap-stream-perl/changelog.Debian.gz
+ebc9e49d61563bef944d5f81fb655b28  usr/share/doc/libtap-stream-perl/changelog.gz
+d9e2ddd621ad9d8d7d95a9f9e3c1f5ae  usr/share/doc/libtap-stream-perl/copyright
+5ce2acd7caddbe87464a908e68aa2cd5  usr/share/man/man3/TAP::Stream.3pm.gz
+3dde953aa8f167fc24ef70feaf1ac732  usr/share/man/man3/TAP::Stream::Role::ToString.3pm.gz
+d3d4b4ef41fb5bbe768f2b3ee3dae8ab  usr/share/man/man3/TAP::Stream::Text.3pm.gz
+384b8b41019b10e180dd947a06548046  usr/share/perl5/TAP/Stream.pm
+7b796bec3a526e165c40936d1ea7e23e  usr/share/perl5/TAP/Stream/Role/ToString.pm
+0e29033ec1d2fa1e5f8e7d2f6f21cd5d  usr/share/perl5/TAP/Stream/Text.pm

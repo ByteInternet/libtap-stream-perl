@@ -1,0 +1,25 @@
+Source: libtap-stream-perl
+Section: perl
+Priority: optional
+Maintainer: root <root@38fac86a5734>
+Build-Depends: debhelper (>= 8)
+Build-Depends-Indep: libmoose-perl,
+ libnamespace-autoclean-perl,
+ libtest-most-perl,
+ perl,
+ perl-modules (>= 6.30)
+Standards-Version: 3.9.2
+Homepage: http://search.cpan.org/dist/TAP-Stream/
+
+Package: libtap-stream-perl
+Architecture: all
+Depends: ${misc:Depends}, ${perl:Depends},
+ libmoose-perl,
+ libnamespace-autoclean-perl
+Description: Combine multiple TAP streams with subtests
+ Sometimes you find yourself needing to merge multiple streams of TAP. Several
+ use cases:
+ .
+ Experimental module to combine multiple TAP streams.
+ .
+ This description was automagically extracted from the module by dh-make-perl.
